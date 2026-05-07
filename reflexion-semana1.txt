@@ -1,0 +1,8 @@
+Yo creo que las tres cosas tienen mucho que ver porque todas dependen de la responsabilidad y del trabajo en comunidad.
+Por ejemplo, usar bien la información en internet significa verificar lo que compartimos, respetar a los demás y no difundir cosas falsas. 
+Eso ayuda a que las personas puedan participar mejor como ciudadanos, opinar con argumentos y tomar decisiones informadas.
+Y en el caso de herramientas como Git, también se necesita organización y responsabilidad, porque varias personas trabajan sobre un mismo
+proyecto. Cada cambio debe quedar claro, ordenado y coordinado para que el trabajo funcione bien y no haya errores o conflictos.
+
+Al final, tanto en internet como en la participación ciudadana y en el trabajo técnico, la clave está en colaborar de manera ética,
+organizada y pensando en cómo nuestras acciones afectan a los demás.
